@@ -12,3 +12,5 @@ Data: Gemte billeder og sensor input fra de forskellige sensorer. Den har blandt
 ### Flyvning:
 Jeg lærte at installere med pip og hvordan man kan bruge en python udvidelse til at kontrollere et objekt i virkeligheden.
 
+### Projekt:
+Vi er begyndt på et projekt. Min gruppe er Abdullah, Halfdan og mig. Vi har besluttet at vi vil prøve at lave en ps4 controller om til en drone controller.
