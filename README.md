@@ -18,7 +18,7 @@ Vi er begyndt på et projekt. Min gruppe er Abdullah, Halfdan og mig. Vi har bes
 
 
 
-## Afsnit 2: Enkryptering
+## Afsnit 2: Kryptering
 
 ### RCS Kryptering:
 RCS Kryptering er en moderne form for kryptering der indvolvere at hver person har to nøgler. Afsenderen bruger modtagerens public key til at enkryptere beskeden. Modtageren bruger sin private key til at dekryptere beskeden. Der er altså en sammenhæng mellem de 2 keys. Public key'en er en sammensætning af to store primtal ganget sammen plus noget mere snask. På grund af måden computere laver matematik på vil det være pretty much umulig at gennemskue. Public key'en kan derfor sendes rundt frit på internettet så andre kan kryptere beskeder de sender til dig.
