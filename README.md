@@ -26,3 +26,18 @@ RCS Kryptering er en moderne form for kryptering der indvolvere at hver person h
 
 ### Synkronkryptering:
 En gammeldags form for kryptering hvor begge parter gjorde de samme steps for at enkryptere og dekryptere. Skal begge kende krypteringen for at kunne dekryptere. F.eks "ABC" med krypteringen +3 ville være "DEF".
+
+
+
+
+## Afsnit 3: De Danske Cybermesterskaber
+
+### Read the rules
+Skulle ind på en hjemmeside i virtual lab for at finde første del og ind i regler og finde sidste del. Jeg lærte at bruge virtual lab og DDC.
+
+
+### Straba (Image Metadata)
+"Vi er på udkig efter nogle soldater som er fra den fjendtlige styrke. Vi har fået et tip om at de bruger straba til at poste deres løb. Straba har dog en politik om at udlevere 0 information og vi må derfor se om vi kan finde noget selv. Gå ind på straba.hkn og se om du kan finde noget i billederne."
+Efter længere tids søgning fandt jeg ud af at jeg ved at downloade billedet kunne få adgang til metadaten hvor jeg fandt byen som militær basen ligger i.
+
+
