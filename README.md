@@ -41,3 +41,20 @@ Skulle ind på en hjemmeside i virtual lab for at finde første del og ind i reg
 Efter længere tids søgning fandt jeg ud af at jeg ved at downloade billedet kunne få adgang til metadaten hvor jeg fandt byen som militær basen ligger i.
 
 
+## Afsnit 4: Terminal
+Alle features der ikke behøver en brugergrænseflade (GUI) ligger i terminalen, ofte er de kun nødvendige for avancerede brugere.
+
+### Sårbarheder
+#### Responsible disclosure: Når man rapportere en bug og/eller sikkerheds hul til et firma. Oftest ville man få en bug-bounty for at finde dette hul. **Gælder ikke hvis det er Aarhus-tech**
+#### CVE: Hver fejl får et CVE nr der refere til den sårbarhed.
+#### HTTP: Bruger port 80
+#### HTTPS: Bruger krypteret port 443
+
+### OSI
+Lag 1: Fysisk hvordan sidder det sammen med ledninger osv.
+Lag 2: Data link: Devices på samme netværk. Håndtere node to node data transfer.
+Lag 3: Network: Devices og andre ting på andet netværk, finder mest effektive rute til andet device.
+Lag 4: Transport: Bruger UDP og TCP til at sende data mellem devices.
+Lag 5: Session: Håndtere de forskellige sessioner melem devices.
+Lag 6: Presentation: Presentere den data den modtager til en fil eller et input som computeren kan lave til filer.
+Lag 7: Application: Viser modtaget data til brugeren som et visuelt resultat.
