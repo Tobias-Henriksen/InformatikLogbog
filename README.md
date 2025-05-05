@@ -80,3 +80,9 @@ Lag 7: Application: Viser modtaget data til brugeren som et visuelt resultat.
 
 ### SQL
 Man kan ved at skrive specifikke termer ind i søgefeltet fremtvinge information på hjemmesiden der ikke skulle være tilgængeligt til dig. Det sker fordi at databasen man hiver fra altid vil returnere noget og hvis bestemte termer er opfyldt. Ved at opfylde disse termer uden at specificere hvilken inddividuel data pakke du vil have adgang til, kan du få alt retur.
+
+
+
+## Teachable Machine
+En maskine der bliver lært i at genkende forskellige trænede grupper.
+
