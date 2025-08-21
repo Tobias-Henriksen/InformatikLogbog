@@ -86,3 +86,27 @@ Man kan ved at skrive specifikke termer ind i søgefeltet fremtvinge information
 ## Teachable Machine
 En maskine der bliver lært i at genkende forskellige trænede grupper.
 
+
+## År 2: Afsnit 1: It system
+### Server client forbindelse
+Server udstiller endpoints der giver clients muligheder for at lagre og læse data. (API)
+API kaldes ved nogle kommandoer (Get, put, post, store)
+
+"Smuk måde at sende data er JSON" - Mark
+
+Trelagsmodellen på API: 
+Præsentation: Ikke sygt meget eksiterende. Eksitere pretty much kun til programmøren
+
+Logik: 
+
+Data:
+
+
+
+
+
+
+
+
+
+
