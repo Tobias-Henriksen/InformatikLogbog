@@ -83,7 +83,7 @@ Man kan ved at skrive specifikke termer ind i søgefeltet fremtvinge information
 
 
 
-## Teachable Machine
+### Teachable Machine
 En maskine der bliver lært i at genkende forskellige trænede grupper.
 
 
@@ -100,6 +100,13 @@ Præsentation: Ikke sygt meget eksiterende. Eksitere pretty much kun til program
 Logik: 
 
 Data:
+
+
+### Databaser
+#### Normalformer
+Normalform 1: Alle attributter skal dække over enkle værdier. Altså må der ikke være flere værdier i samme felt.
+Normalform 2: 
+Normalform 3: 
 
 
 
