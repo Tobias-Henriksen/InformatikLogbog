@@ -109,11 +109,44 @@ Normalform 2:
 Normalform 3: 
 
 
+## Afsnit 5: Logic Gates
+### Forskellige former for logic gates
+Logic gates bliver brugt i computere til at bestemme hvilken handling den udføre alt efter det input den modtager. Det virker ved at bruge boolean variables som f.eks. True/False, 1/0, High/Low disse har kun 2 værdier at skifte i mellem og dette kan vi gøre ved at ændre spændingen i et kredsløb. Man kan opskrive truth tables for de forskellige input og de tilsvarende output værdier for hver gate.
+Der findes mange forskellige gates men de basale er følgende:
+#### AND Gate
+ En AND gate fungere sådan at hvis både input A og B er sandt er output C sandt. Neden for er truth table og symbol
+ ![Billede af AND Gate](GateBilleder/and-gate.png)
+ 
+ Som en udfordring valgte jeg at samarbejde med Emil, Halfdan og Emre om at skabe gaten i Minecraft med redstone. Her kom vi frem til 2 designs der er tilføjet nedenunder.
+ 
+ ![Billede af et design af en AND Gate i Minecraft](GateBilleder/and-gate1-minecraft.png)
+ ![Billede af et design af en anden AND Gate i Minecraft](GateBilleder/and-gate2-minecraft.png)
+
+ #### OR Gate
+ En OR gate fungere sådan at hvis enten input A eller B er sandt er output C sandt. Neden for er truth table og symbol
+ ![Billede af OR Gate](GateBilleder/or-gate.png) 
+ 
+ Denne gate genskabte vi også i Minecraft.
+ 
+ ![Billede af et design af en OR Gate i Minecraft](GateBilleder/or-gate-minecraft.png)
+ 
+
+ #### NOT Gate
+ En Not gate fungere ved at invertere signalet den få som input. Hvis input A er 1 sandt er output B falsk og omvendt.
+
+ ![Billede af NOT Gate](GateBilleder/not-gate.png) 
+ 
+ Denne genskabte vi også i Minecraft.
+
+ ![Billede af et design af en NOT Gate i Minecraft](GateBilleder/not-gate-minecraft.png)
+
+#### NAND
 
 
+#### NOR
 
+#### XOR
 
-
-
+#### XNOR
 
 
